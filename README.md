@@ -80,7 +80,7 @@ https://ci.openvidu.io/jenkins/job/Development/view/5%20-%20Build/view/Docker/jo
 
 * release-media-server
 
-Docker image for relase Kurento Media Server.
+Docker image for release Kurento Media Server.
 
 Build: https://ci.openvidu.io/jenkins/job/Development/job/container_release_media_server
 
